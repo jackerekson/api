@@ -1,0 +1,29 @@
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-flow: center;
+}
+
+button {
+    background-color: #232323;
+    width: 100px;
+    height: 40px;
+    color: turquoise;
+    margin: 5px;
+  }
+
+  h2 {
+    height: 80px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-start;
+    color: rgb(0, 0, 0);
+  }
+
+.fun {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-flow: center;
+}
